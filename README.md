@@ -125,18 +125,18 @@ This project successfully implements all the "must" deliverables and a few "nice
 
 ```
 src/
-├── app/                   # Next.js app directory
-│   ├── auth/              # Authentication pages
-│   ├── buyers/            # Buyer management pages
-│   └── api/               # API routes
-├── components/            # Reusable components
-│   ├── ui/                # UI components
-│   └── providers/         # Context providers
-├── lib/                   # Utilities and configurations
-│   ├── db/                # Database schema and config
-│   ├── supabase/          # Supabase client setup
-│   └── validations/       # Zod schemas
-└── __tests__/             # Test files
+├── app/                   
+│   ├── auth/              
+│   ├── buyers/            
+│   └── api/               
+├── components/            
+│   ├── ui/                
+│   └── providers/        
+├── lib/                  
+│   ├── db/               
+│   ├── supabase/          
+│   └── validations/      
+└── __tests__/             
 ```
 
 
@@ -180,3 +180,4 @@ MIT
 
 For issues and questions, please open an issue in the repository.
 Created by Dinakar Sai Reddy Lingala..!
+
